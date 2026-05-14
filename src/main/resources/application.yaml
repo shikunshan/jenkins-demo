@@ -1,3 +1,5 @@
 spring:
   application:
     name: demo-for-jenkins
+server:
+  port: 8081
